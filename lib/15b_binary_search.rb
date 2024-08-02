@@ -8,7 +8,7 @@ class BinarySearch
     @min = min
     @max = max
     @answer = answer.value
-    @guess = guess
+    @guess = gues
   end
 
   def make_guess
